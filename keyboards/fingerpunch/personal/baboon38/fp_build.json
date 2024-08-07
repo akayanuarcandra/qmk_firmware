@@ -1,0 +1,7 @@
+[
+    {
+        "type" : "single",
+        "name" : "FP_WEACT_ST7735",
+        "user_input": "Do you have a WeAct ST7735 Display VIK module?"
+    }
+]

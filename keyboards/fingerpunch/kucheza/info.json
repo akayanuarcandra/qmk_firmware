@@ -1,0 +1,11 @@
+{
+    "manufacturer": "sadekbaroudi",
+    "keyboard_name": "kucheza",
+    "url": "https://fingerpunch.xyz/product/kucheza/",
+    "maintainer": "Sadek Baroudi <sadekbaroudi@gmail.com>",
+    "usb": {
+        "vid": "0xFEFE",
+        "pid": "0x17C8",
+        "device_version": "1.0.0"
+    }
+}

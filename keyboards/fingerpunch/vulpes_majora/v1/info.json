@@ -1,0 +1,11 @@
+{
+    "manufacturer": "sadekbaroudi",
+    "keyboard_name": "vulpes majora",
+    "url": "https://fingerpunch.xyz/product/vulpes-majora/",
+    "maintainer": "Sadek Baroudi <sadekbaroudi@gmail.com>",
+    "usb": {
+        "vid": "0xFE2B",
+        "pid": "0x7125",
+        "device_version": "1.0.0"
+    }
+}

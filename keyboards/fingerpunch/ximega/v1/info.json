@@ -1,0 +1,11 @@
+{
+    "manufacturer": "sadekbaroudi",
+    "keyboard_name": "ximega v1",
+    "url": "https://fingerpunch.xyz/product/ximega-v1/",
+    "maintainer": "Sadek Baroudi <sadekbaroudi@gmail.com>",
+    "usb": {
+        "vid": "0xFEFE",
+        "pid": "0xB173",
+        "device_version": "1.0.0"
+    }
+}

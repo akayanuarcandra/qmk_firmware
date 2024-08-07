@@ -1,0 +1,11 @@
+{
+    "manufacturer": "sadekbaroudi",
+    "keyboard_name": "vulpes minora",
+    "url": "https://github.com/sadekbaroudi/vulpes-minora/",
+    "maintainer": "Sadek Baroudi <sadekbaroudi@gmail.com>",
+    "usb": {
+        "vid": "0xFEFE",
+        "pid": "0x1110",
+        "device_version": "1.0.0"
+    }
+}

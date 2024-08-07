@@ -1,0 +1,11 @@
+{
+    "manufacturer": "perce",
+    "keyboard_name": "baboon38",
+    "url": "https://github.com/madebyperce/baboon38",
+    "maintainer": "Sadek Baroudi <sadekbaroudi@gmail.com>",
+    "usb": {
+        "vid": "0x0000",
+        "pid": "0x0000",
+        "device_version": "1.0.0"
+    }
+}

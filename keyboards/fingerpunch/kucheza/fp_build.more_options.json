@@ -1,0 +1,17 @@
+[
+    {
+        "type" : "one-of",
+        "names" : [ "RGBLIGHT_ENABLE", "RGB_MATRIX_ENABLE" ],
+        "user_input": "Disable RGB, RGB light, RGB matrix?"
+    },
+    {
+        "type" : "single",
+        "name" : "ENCODER_ENABLE",
+        "user_input": "Do you have a rotary encoder?"
+    },
+    {
+        "type" : "single",
+        "name" : "AUDIO_ENABLE",
+        "user_input": "Do you want to enable the audio buzzer?"
+    }
+]

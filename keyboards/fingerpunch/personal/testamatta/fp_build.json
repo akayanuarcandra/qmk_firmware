@@ -1,0 +1,17 @@
+[
+    {
+        "type" : "one-of",
+        "names" : [
+            "VIK_HAPTIC",
+            "VIK_ILI9341",
+            "VIK_PER56_CIRQUE_LEDS",
+            "VIK_PER56_CIRQUE_LEDS",
+            "VIK_PER56_PMW3360_LEDS",
+            "VIK_PMW3360",
+            "VIK_WEACT_ST7735",
+            "VIK_GC9A01",
+            "VIK_WAVESHARE_22224"
+        ],
+        "user_input": "Which VIK module are you testing? NONE, VIK_HAPTIC, VIK_ILI9341, VIK_PER56_CIRQUE_LEDS, VIK_PER56_CIRQUE_LEDS, VIK_PER56_PMW3360_LEDS, VIK_PMW3360, VIK_WEACT_ST7735, VIK_GC9A01, VIK_WAVESHARE_22224"
+    }
+]

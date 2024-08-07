@@ -1,0 +1,11 @@
+{
+    "manufacturer": "sadekbaroudi",
+    "keyboard_name": "le chiffre dek vikified",
+    "url": "https://github.com/sadekbaroudi/Le-Chiffre-Keyboard/tree/vikified",
+    "maintainer": "Sadek Baroudi <sadekbaroudi@gmail.com>",
+    "usb": {
+        "vid": "0xFEFE",
+        "pid": "0x7304",
+        "device_version": "1.0.0"
+    }
+}

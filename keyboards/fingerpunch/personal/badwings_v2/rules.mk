@@ -1,0 +1,10 @@
+# SPI_DRIVER_REQUIRED = yes
+# CUSTOM_MATRIX = lite
+
+POINTING_DEVICE_DRIVER = cirque_pinnacle_spi
+POINTING_DEVICE_ENABLE  = yes
+LTO_ENABLE = yes
+CONSOLE_ENABLE = no
+EXTRAFLAGS += -flto
+
+include keyboards/fingerpunch/src/rules.mk

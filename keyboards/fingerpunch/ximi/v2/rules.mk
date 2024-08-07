@@ -1,0 +1,1 @@
+VIK_ENABLE = yes
