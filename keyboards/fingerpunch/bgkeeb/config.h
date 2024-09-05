@@ -101,3 +101,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define NO_ACTION_FUNCTION
 
 #include "keyboards/fingerpunch/src/config_post.h"
+
+#define MK_3_SPEED
+#define MK_MOMENTARY_ACCEL
+#define MOUSEKEY_INTERVAL 15
+#define MK_C_INTERVAL_0 25
+#define MK_C_INTERVAL_1 16
