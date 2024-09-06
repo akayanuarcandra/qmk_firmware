@@ -38,9 +38,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 ),
 
 [_MEDIA] = LAYOUT_split_3x5_4(
-  QK_BOOT,      XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,          KC_MUTE,        XXXXXXX,      XXXXXXX,      XXXXXXX,      GAME,
-  KC_LGUI,      KC_LCTL,      KC_LALT,      KC_LSFT,      XXXXXXX,          KC_VOLU,        KC_MPRV,      KC_MPLY,      KC_MNXT,      XXXXXXX,
-  XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,          KC_VOLD,        XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,
+  QK_BOOT,      XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,          XXXXXXX,        KC_MUTE,      XXXXXXX,      XXXXXXX,      GAME,
+  KC_LGUI,      KC_LCTL,      KC_LALT,      KC_LSFT,      XXXXXXX,          KC_BRIU,        KC_VOLU,      KC_MPLY,      KC_MPRV,      KC_MNXT,
+  XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,          KC_BRID,        KC_VOLD,      XXXXXXX,      XXXXXXX,      XXXXXXX,
                 XXXXXXX,      XXXXXXX,      KC_TAB,       KC_ENT,           KC_SPC,         KC_BSPC,      KC_DEL,       XXXXXXX
 ),
 
@@ -62,21 +62,21 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   KC_1,         KC_2,         KC_3,         KC_4,         KC_5,             XXXXXXX,        XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,
   KC_6,         KC_7,         KC_8,         KC_9,         KC_0,             XXXXXXX,        KC_LSFT,      KC_LALT,      KC_LCTL,      KC_LGUI,
   KC_SCLN,      XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,          XXXXXXX,        XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,
-                XXXXXXX,      KC_ESC,       KC_LPRN,      KC_RPRN,          XXXXXXX,        KC_BSPC,      KC_DEL,       XXXXXXX   
+                XXXXXXX,      XXXXXXX,      KC_LPRN,      KC_RPRN,          XXXXXXX,        KC_BSPC,      KC_DEL,       XXXXXXX   
 ),
 
 [_SYMBOL] = LAYOUT_split_3x5_4(
   KC_EXLM,      KC_AT,        KC_HASH,      KC_DLR,       KC_PERC,          XXXXXXX,        XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,
   KC_CIRC,      KC_AMPR,      KC_ASTR,      KC_MINS,      KC_PLUS,          XXXXXXX,        KC_LSFT,      KC_LALT,      KC_LCTL,      KC_LGUI,
   DDOT,         KC_TILD,      KC_GRV,       KC_UNDS,      KC_EQL,           XXXXXXX,        XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,
-                XXXXXXX,      KC_ESC,       KC_LCBR,      KC_RCBR,          KC_SPC,         XXXXXXX,      KC_DEL,       XXXXXXX   
+                XXXXXXX,      XXXXXXX,      KC_LCBR,      KC_RCBR,          KC_SPC,         XXXXXXX,      KC_DEL,       XXXXXXX   
 ),
 
 [_FUNC] = LAYOUT_split_3x5_4(
   KC_F1,        KC_F2,        KC_F3,        KC_F4,        KC_F5,            XXXXXXX,        XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,
   KC_F6,        KC_F7,        KC_F8,        KC_F9,        KC_F10,           XXXXXXX,        KC_LSFT,      KC_LALT,      KC_LCTL,      KC_LGUI,
   XXXXXXX,      XXXXXXX,      XXXXXXX,      KC_F11,       KC_F12,           XXXXXXX,        XXXXXXX,      XXXXXXX,      XXXXXXX,      XXXXXXX,
-                XXXXXXX,      KC_ESC,       KC_LBRC,      KC_RBRC,          KC_SPC,         KC_BSPC,      XXXXXXX,      XXXXXXX   
+                XXXXXXX,      XXXXXXX,      KC_LBRC,      KC_RBRC,          KC_SPC,         KC_BSPC,      XXXXXXX,      XXXXXXX   
 ),
 
 [_GAME] = LAYOUT_split_3x5_4(
